@@ -6,3 +6,8 @@ HW1:
 
     Linear_Regression_and_Regularization
     Spectral_Clustering
+
+HW2:
+
+    Ensemble_Methods
+    SVM
