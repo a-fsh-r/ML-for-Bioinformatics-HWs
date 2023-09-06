@@ -4,10 +4,22 @@ This repository contains my codes and solutions for homework of Machine Learning
 
 HW1:
 
-    Linear_Regression_and_Regularization
-    Spectral_Clustering
+    Linear Regression and Regularization
+    Spectral Clustering
 
 HW2:
 
-    Ensemble_Methods
+    Ensemble Methods
     SVM
+
+HW3:
+
+    MLP
+    VAE
+
+HW4:
+
+    CNN
+    Image Captioning
+
+
