@@ -4,6 +4,6 @@ This repository contains my codes and solutions for homework of Machine Learning
 
 
 HW1:
-  1. Linear_Regression_and_Regularization
+  Linear_Regression_and_Regularization
   
-  2. Spectral_Clustering
+  Spectral_Clustering
