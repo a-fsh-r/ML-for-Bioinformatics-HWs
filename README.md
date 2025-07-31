@@ -1,29 +1,50 @@
-# ML-for-Bioinformatics-HWs(Practical)
+# 📋 ML-for-Bioinformatics-HWs (Practical)
 
-This repository contains my codes and solutions for homework of Machine Learning for Bioinformatics course held at Sharif University of Technology (SUT) by Prof. Ali Sharifi Zarchi in Spring 2023 (1401-2)
+This repository contains practical assignments and implementations for the **Machine Learning for Bioinformatics** course, held at **Sharif University of Technology (SUT)** in **Spring 2023 (1401-2)**, instructed by **Prof. Ali Sharifi Zarchi**.
 
-# HW1:
+---
 
-Linear Regression and Regularization: We want to train a model which estimates obesity levels based on eating habits and physical conditions of an individual. For our purpose, we will use a dataset of individuals from the countries of Mexico, Peru and Columbia.  
+## 📁 Homework Overview
 
-Spectral Clustering: Clustering on Cancer Gene Expression RNA-seq dataset
+### 📝 HW1: Linear Models & Clustering
 
-# HW2:
+🔹️ **Linear Regression & Regularization**  
+Predicting obesity levels based on eating habits and physical conditions.  
+Dataset: Individuals from Mexico, Peru, and Colombia.
 
-Random Forest and XGBoost model on Breast_Cancer dataset.
+🔹️ **Spectral Clustering**  
+Applied on cancer RNA-seq gene expression dataset.
 
-Support Vector Machines: In this assignment, we are going to implement Support Vector Machines (SVM) algorithm that determines which patient is in danger and which is not.
+---
 
-# HW3:
+### 📝 HW2: Tree-Based Models & SVM
 
-MLP: In this assignment we'll be working with Dorothea Dataset.(DOROTHEA is a drug discovery dataset. Chemical compounds represented by structural molecular features must be classified as active (binding to thrombin) or inactive.)
+🔹️ **Random Forest & XGBoost**  
+Binary classification on the **Breast Cancer** dataset.
 
-VAE on MNIST dataset.
+🔹️ **Support Vector Machines (SVM)**  
+Identifying high-risk patients using an SVM-based classifier.
 
-# HW4:
+---
 
-CNN: In this exercise we are going to train a CNN-based model for a multi-class classification task, brain abnormality classification. The dataset we are going to use is a small imbalanced one that contains MRIs of both normal and abnormal brains.
+### 📝 HW3: Neural Networks
 
-Image Captioning: In this assignment, we will be creating and training a neural network to generate captions for images using the MS-COCO dataset.
+🔹️ **Multi-Layer Perceptron (MLP)**  
+Applied on the **Dorothea** dataset – a drug discovery dataset for classifying chemical compounds (active vs inactive).
 
+🔹️ **Variational Autoencoder (VAE)**  
+Implemented and trained on the **MNIST** dataset.
 
+---
+
+### 📝 HW4: Deep Learning & Vision
+
+🔹️ **Convolutional Neural Network (CNN)**  
+Trained on a small, imbalanced dataset of **brain MRI images** (normal vs abnormal) for multi-class classification.
+
+🔹️ **Image Captioning**  
+Created and trained an image captioning model using the **MS-COCO** dataset.
+
+---
+
+📌 Each homework is implemented in a separate folder with its own Jupyter notebooks 📓.
